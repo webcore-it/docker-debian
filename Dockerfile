@@ -21,6 +21,7 @@ RUN apt-get update && apt-get -y install \
 	libxss1 \
 	libxslt1.1 \
 	qt5-default \
+	qt5-style-plugins \
 	libgstreamer-plugins-base0.10-0 \
 	libsqlite3-0 \
 
